@@ -1,0 +1,9 @@
+[submodule "GG"]
+	path = GG
+	url = git@github.com:guld-games/ledger-gg.git
+[submodule "GULD"]
+	path = GULD
+	url = git@github.com:guld-games/ledger-guld.git
+[submodule "prices"]
+	path = prices
+	url = git@github.com:guld-games/token-prices.git
