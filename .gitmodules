@@ -1,9 +1,15 @@
 [submodule "GG"]
 	path = GG
 	url = git@github.com:guld-games/ledger-gg.git
+	shallow = true
+	fetchRecurseSubmodules = false
 [submodule "GULD"]
 	path = GULD
 	url = git@github.com:guld-games/ledger-guld.git
+	shallow = true
+	fetchRecurseSubmodules = false
 [submodule "prices"]
 	path = prices
 	url = git@github.com:guld-games/token-prices.git
+	shallow = true
+	fetchRecurseSubmodules = false
