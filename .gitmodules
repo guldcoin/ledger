@@ -13,3 +13,21 @@
 	url = git@github.com:guld-games/token-prices.git
 	shallow = true
 	fetchRecurseSubmodules = false
+[submodule "isysd"]
+	path = isysd
+	url = git@bitbucket.org:isysd/ledger-isysd.git
+[submodule "cz"]
+	path = cz
+	url = git@bitbucket.org:isysd/ledger-cz.git
+[submodule "gigi"]
+	path = gigi
+	url = git@bitbucket.org:isysd/ledger-gigi.git
+[submodule "lily"]
+	path = lily
+	url = git@bitbucket.org:isysd/ledger-lily.git
+[submodule "mizim"]
+	path = mizim
+	url = git@bitbucket.org:mizim/ledger-mizim.git
+[submodule "zimmi"]
+	path = zimmi
+	url = git@bitbucket.org:zimmiglobal/ledger-zimmi.git
