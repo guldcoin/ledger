@@ -31,3 +31,9 @@
 [submodule "zimmi"]
 	path = zimmi
 	url = git@bitbucket.org:zimmiglobal/ledger-zimmi.git
+[submodule "BTC"]
+	path = BTC
+	url = https://github.com/tigoctm/ledger-bitcoin
+[submodule "DASH"]
+	path = DASH
+	url = https://github.com/tigoctm/ledger-dash
