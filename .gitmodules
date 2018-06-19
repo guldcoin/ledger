@@ -10,7 +10,7 @@
 	fetchRecurseSubmodules = false
 [submodule "prices"]
 	path = prices
-	url = git@bitbucket.org:guld/token-prices.git
+	url = git@github.com:tigoctm/token-prices.git
 	shallow = true
 	fetchRecurseSubmodules = false
 [submodule "isysd"]
