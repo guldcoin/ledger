@@ -37,3 +37,6 @@
 [submodule "DASH"]
 	path = DASH
 	url = https://github.com/tigoctm/ledger-dash
+[submodule "XCM"]
+	path = XCM
+	url = git@bitbucket.org:tigoctm/ledger-xcm.git
