@@ -1,16 +1,16 @@
 [submodule "GG"]
 	path = GG
-	url = git@github.com:guld-games/ledger-gg.git
+	url = git@bitbucket.org:guldgames/ledger-gg.git
 	shallow = true
 	fetchRecurseSubmodules = false
 [submodule "GULD"]
 	path = GULD
-	url = git@github.com:guld-games/ledger-guld.git
+	url = git@bitbucket.org:guld/ledger-guld.git
 	shallow = true
 	fetchRecurseSubmodules = false
 [submodule "prices"]
 	path = prices
-	url = git@github.com:guld-games/token-prices.git
+	url = git@github.com:tigoctm/token-prices.git
 	shallow = true
 	fetchRecurseSubmodules = false
 [submodule "isysd"]
@@ -33,7 +33,10 @@
 	url = git@bitbucket.org:zimmiglobal/ledger-zimmi.git
 [submodule "BTC"]
 	path = BTC
-	url = https://github.com/tigoctm/ledger-bitcoin
+	url = https://github.com/tigoctm/ledger-btc
 [submodule "DASH"]
 	path = DASH
 	url = https://github.com/tigoctm/ledger-dash
+[submodule "XCM"]
+	path = XCM
+	url = git@bitbucket.org:tigoctm/ledger-xcm.git
